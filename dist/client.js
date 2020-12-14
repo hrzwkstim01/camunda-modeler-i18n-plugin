@@ -293,6 +293,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _de_dmn_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./de/dmn-js */ "./client/i18n-extension/languages/de/dmn-js.js");
 /* harmony import */ var _de_properties_panel__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./de/properties-panel */ "./client/i18n-extension/languages/de/properties-panel.js");
 /* harmony import */ var _de_other__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./de/other */ "./client/i18n-extension/languages/de/other.js");
+/* harmony import */ var _de_proleit__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./de/proleit */ "./client/i18n-extension/languages/de/proleit.js");
 /**
  * Copyright 2020 FlowSquad GmbH
  *
@@ -314,6 +315,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
+
 /**
  * Joins and exports the translated strings.
  */
@@ -321,7 +323,8 @@ __webpack_require__.r(__webpack_exports__);
     ..._de_bpmn_js__WEBPACK_IMPORTED_MODULE_0__["default"],
     ..._de_dmn_js__WEBPACK_IMPORTED_MODULE_1__["default"],
     ..._de_properties_panel__WEBPACK_IMPORTED_MODULE_2__["default"],
-    ..._de_other__WEBPACK_IMPORTED_MODULE_3__["default"]
+    ..._de_other__WEBPACK_IMPORTED_MODULE_3__["default"],
+    ..._de_proleit__WEBPACK_IMPORTED_MODULE_4__["default"]
 });
 
 /***/ }),
@@ -619,6 +622,29 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./client/i18n-extension/languages/de/proleit.js":
+/*!*******************************************************!*\
+  !*** ./client/i18n-extension/languages/de/proleit.js ***!
+  \*******************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ({
+  'PlantiT base Service': 'PlantiT base Service',
+  'Workflow Transaktion': 'Workflow Transaktion',
+  'Type of interface': 'Schnittstellentyp',
+  '*Required': '*Erforderlich',
+  'Module': 'Module',
+  'Service': 'Service',
+  'API*': 'API*',
+  'Method*': 'Method*'
+});
+
+
+/***/ }),
+
 /***/ "./client/i18n-extension/languages/de/properties-panel.js":
 /*!****************************************************************!*\
   !*** ./client/i18n-extension/languages/de/properties-panel.js ***!
@@ -846,6 +872,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _en_dmn_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./en/dmn-js */ "./client/i18n-extension/languages/en/dmn-js.js");
 /* harmony import */ var _en_properties_panel__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./en/properties-panel */ "./client/i18n-extension/languages/en/properties-panel.js");
 /* harmony import */ var _en_other__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./en/other */ "./client/i18n-extension/languages/en/other.js");
+/* harmony import */ var _en_proleit__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./en/proleit */ "./client/i18n-extension/languages/en/proleit.js");
 /**
  * Copyright 2020 FlowSquad GmbH
  *
@@ -867,6 +894,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
+
 /**
  * Joins and exports the translated strings.
  */
@@ -874,7 +902,8 @@ __webpack_require__.r(__webpack_exports__);
     ..._en_bpmn_js__WEBPACK_IMPORTED_MODULE_0__["default"],
     ..._en_dmn_js__WEBPACK_IMPORTED_MODULE_1__["default"],
     ..._en_properties_panel__WEBPACK_IMPORTED_MODULE_2__["default"],
-    ..._en_other__WEBPACK_IMPORTED_MODULE_3__["default"]
+    ..._en_other__WEBPACK_IMPORTED_MODULE_3__["default"],
+    ..._en_proleit__WEBPACK_IMPORTED_MODULE_4__["default"]
 });
 
 /***/ }),
@@ -1169,6 +1198,29 @@ __webpack_require__.r(__webpack_exports__);
     'Output Expression': 'Output Expression',
     'Data Type': 'Data Type'
 });
+
+/***/ }),
+
+/***/ "./client/i18n-extension/languages/en/proleit.js":
+/*!*******************************************************!*\
+  !*** ./client/i18n-extension/languages/en/proleit.js ***!
+  \*******************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = ({
+  'PlantiT base Service': 'PlantiT base Service',
+  'Workflow Transaktion': 'Workflow Transaktion',
+  'Type of interface': 'Type of interface',
+  '*Required': '*Required',
+  'Module': 'Module',
+  'Service': 'Service',
+  'API*': 'API*',
+  'Method*': 'Method*'
+});
+
 
 /***/ }),
 

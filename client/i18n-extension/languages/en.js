@@ -18,6 +18,7 @@ import bpmnJs from './en/bpmn-js';
 import dmnJs from './en/dmn-js';
 import propertiesPanel from './en/properties-panel';
 import other from './en/other';
+import proleit from './en/proleit';
 
 /**
  * Joins and exports the translated strings.
@@ -26,5 +27,6 @@ export default {
     ...bpmnJs,
     ...dmnJs,
     ...propertiesPanel,
-    ...other
+    ...other,
+    ...proleit
 };
