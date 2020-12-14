@@ -3,8 +3,8 @@ export default {
   'Workflow Transaktion': 'Workflow Transaktion',
   'Type of interface': 'Schnittstellentyp',
   '*Required': '*Erforderlich',
-  'Module': 'Module',
+  'Module': 'Modul',
   'Service': 'Service',
   'API*': 'API*',
-  'Method*': 'Method*'
+  'Method*': 'Methode*'
 };
